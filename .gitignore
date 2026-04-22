@@ -1,0 +1,23 @@
+# Build dirs
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated
+*.vtu
+*.csv
+*.png

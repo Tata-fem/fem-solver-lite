@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build dirs
 build/
 cmake-build-*/
@@ -21,3 +22,46 @@ Thumbs.db
 *.vtu
 *.csv
 *.png
+=======
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+>>>>>>> 109ef0286c46f691c9044f4332a35c50fff6cfa3
